@@ -6,4 +6,6 @@
 
     https://github.com/farukwebcode21/tailwindcss-setup.git
 
-2. Then use Your Simple html project not react project
+2.Then use Your Simple html project not react project
+
+    https://tailwindcss.com/
